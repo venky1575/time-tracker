@@ -5,7 +5,7 @@
     <artifactId>time-tracker-parent</artifactId>
     <packaging>pom</packaging>
     <version>0.3.1-SNAPSHOT</version>
-    <name>Time Tracker (Parent)</name>
+    <name>Time Tracke (Parent)</name>
     <description>
         This is a simple Maven / Java web project.
     </description>
